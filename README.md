@@ -11,10 +11,10 @@ The first step is to create a new Rasa project
 - [ ] domain.yml : your assistant’s domain
 - [ ] endpoints.yml : details for connecting to channels like fb messenger
 - [ ] models/<timestamp>.tar.gz : your initial model
-2. View Your NLU Training Data
-3. Define Your Model Configuration
-4. Write Your First Stories
-5. Define a Domain
+###2. View Your NLU Training Data
+###3. Define Your Model Configuration
+###4. Write Your First Stories
+###5. Define a Domain
 - [ ] intents  : things you expect users to say
 - [ ] actions : things your assistant can do and say
 - [ ] templates : template strings for the things your assistant can say
