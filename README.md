@@ -1,5 +1,5 @@
 # First-Chatbot-
-This is my first chatbot, i want to learn how i can build my own chatbot using the libraries Rasa-nlu and SpaCy so this is the steps : 
+This is my first chatbot, trying to build my own chatbot using the libraries Rasa-nlu and SpaCy so this is the steps : 
 
 ### 1. Create a New Project
 The first step is to create a new Rasa project
